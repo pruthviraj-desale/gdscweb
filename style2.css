@@ -1,0 +1,10 @@
+.box{
+    height: 220px;
+    width: 100%;
+    background-color: #33c5ff;
+    padding: 100px;
+}
+
+p{
+    width: 300px;
+}
