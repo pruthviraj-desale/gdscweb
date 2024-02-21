@@ -1,0 +1,41 @@
+#div {
+    color: black;
+    background-color: rgb(50, 188, 209);
+    height: 20px;
+    padding: 20px;
+    border: 4px solid black;
+    margin: 10px;
+}
+
+.one {
+    color: rgb(228, 11, 11);
+    background-color: rgb(255, 255, 255);
+    height: 80px;
+}
+
+#div1 {
+    background-color: rgb(38, 85, 69);
+    height: 50px;
+    width: 50px;
+}
+
+#div2 {
+    background-color: rgb(51, 27, 148);
+    height: 50px;
+    width: 50px;
+}
+
+#div3 {
+    background-color: rgb(20, 44, 36);
+    height: 50px;
+    width: 50px;
+}
+
+#parent {
+    display: flex;
+    justify-content:
+        space-between;
+
+
+}
+
